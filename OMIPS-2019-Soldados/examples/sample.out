@@ -1,0 +1,13 @@
+<resultados>
+	<mundos>
+		<mundo nombre="mundo_0">
+			<linea fila="5" compresionDeCeros="true">(6) 35 </linea>
+			<linea fila="3" compresionDeCeros="true">(3) 11 </linea>
+			<linea fila="1" compresionDeCeros="true">(1) 2 </linea>
+		</mundo>
+	</mundos>
+	<programas>
+		<programa nombre="p1" resultadoEjecucion="ZUMBADOR INVALIDO"/>
+	</programas>
+</resultados>
+
