@@ -1,7 +1,7 @@
 <resultados>
 	<mundos>
 		<mundo nombre="mundo_0">
-			<linea fila="3" compresionDeCeros="true">(1) 2 3 2 2 </linea>
+			<linea fila="3" compresionDeCeros="true">(1) 2 4 8 14 </linea>
 		</mundo>
 	</mundos>
 	<programas>

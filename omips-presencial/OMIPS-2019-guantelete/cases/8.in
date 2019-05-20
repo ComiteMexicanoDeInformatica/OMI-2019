@@ -1,5 +1,5 @@
 <ejecucion>
-	<condiciones instruccionesMaximasAEjecutar="10000000" longitudStack="65000"></condiciones>
+	<condiciones instruccionesMaximasAEjecutar="10000000" longitudStack="1000000"></condiciones>
 	<mundos>
 		<mundo nombre="mundo_0" ancho="100" alto="100">
 			<monton x="2" y="1" zumbadores="33"></monton>

@@ -1,12 +1,12 @@
 <resultados>
 	<mundos>
 		<mundo nombre="mundo_0">
-			<linea fila="18" compresionDeCeros="true">(1) 8 8 2 7 12 8 </linea>
-			<linea fila="17" compresionDeCeros="true">(1) 9 11 2 8 5 5 </linea>
-			<linea fila="16" compresionDeCeros="true">(1) 9 10 2 10 11 5 </linea>
-			<linea fila="15" compresionDeCeros="true">(1) 6 10 2 10 8 6 </linea>
-			<linea fila="14" compresionDeCeros="true">(1) 10 15 2 9 7 5 </linea>
-			<linea fila="13" compresionDeCeros="true">(1) 9 11 2 5 7 18 </linea>
+			<linea fila="18" compresionDeCeros="true">(1) 8 8 2 10 18 6 </linea>
+			<linea fila="17" compresionDeCeros="true">(1) 10 12 2 4 16 4 </linea>
+			<linea fila="16" compresionDeCeros="true">(1) 12 12 2 2 14 2 </linea>
+			<linea fila="15" compresionDeCeros="true">(1) 6 8 2 18 12 10 </linea>
+			<linea fila="14" compresionDeCeros="true">(1) 12 12 2 16 10 4 </linea>
+			<linea fila="13" compresionDeCeros="true">(1) 10 18 2 2 8 16 </linea>
 		</mundo>
 	</mundos>
 	<programas>

@@ -20,7 +20,7 @@
 
     "misc": {
         "alias": "OMIPS-2019-Comprimiendo",
-        "visibility": 0,
+        "visibility": 1,
         "languages": "karel",
         "email_clarifications": 0,
         "admin-groups": ["comi-2019"],

@@ -1,0 +1,59 @@
+<resultados>
+	<mundos>
+		<mundo nombre="mundo_0">
+			<linea fila="50" compresionDeCeros="true">(1) 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 </linea>
+			<linea fila="49" compresionDeCeros="true">(1) 24 24 24 24 24 24 24 24 24 </linea>
+			<linea fila="48" compresionDeCeros="true">(1) 20 20 21 21 19 22 21 20 19 22 21 22 20 22 20 20 20 20 20 20 21 21 22 21 22 20 19 20 19 20 20 22 22 20 19 20 19 22 20 21 </linea>
+			<linea fila="47" compresionDeCeros="true">(1) 41 43 42 40 40 43 42 43 42 42 41 43 40 41 40 40 42 41 41 42 40 43 41 43 42 41 42 40 43 40 43 </linea>
+			<linea fila="46" compresionDeCeros="true">(1) 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 </linea>
+			<linea fila="45" compresionDeCeros="true">(1) 28 27 27 28 28 28 27 27 28 27 27 27 28 28 27 27 27 27 </linea>
+			<linea fila="44" compresionDeCeros="true">(1) 19 19 19 19 21 20 20 21 20 21 19 21 19 19 21 21 21 20 19 </linea>
+			<linea fila="43" compresionDeCeros="true">(1) 27 29 27 31 30 31 28 31 28 30 27 27 31 30 28 30 </linea>
+			<linea fila="42" compresionDeCeros="true">(1) 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 </linea>
+			<linea fila="41" compresionDeCeros="true">(1) 16 16 16 16 16 </linea>
+			<linea fila="40" compresionDeCeros="true">(1) 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 </linea>
+			<linea fila="39" compresionDeCeros="true">(1) 19 18 19 18 20 19 19 20 </linea>
+			<linea fila="38" compresionDeCeros="true">(1) 20 21 21 21 19 20 21 19 21 21 19 20 19 20 21 19 19 19 </linea>
+			<linea fila="37" compresionDeCeros="true">(1) 47 49 46 47 46 46 49 47 47 48 49 47 47 49 49 49 49 46 48 48 48 49 48 46 47 </linea>
+			<linea fila="36" compresionDeCeros="true">(1) 26 25 26 25 25 26 25 26 26 25 26 25 25 25 26 25 26 26 26 26 26 25 25 26 26 26 25 26 26 25 25 26 </linea>
+			<linea fila="35" compresionDeCeros="true">(1) 27 27 27 28 28 27 28 27 27 27 27 27 28 28 28 27 27 28 27 27 28 27 27 27 27 27 28 27 27 28 28 27 </linea>
+			<linea fila="34" compresionDeCeros="true">(1) 49 50 48 48 48 48 49 50 48 49 48 49 48 49 48 50 50 48 50 48 49 50 48 49 50 48 50 48 48 50 50 49 49 50 49 50 50 50 50 49 </linea>
+			<linea fila="33" compresionDeCeros="true">(1) 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 </linea>
+			<linea fila="32" compresionDeCeros="true">(1) 50 51 51 52 50 51 50 52 50 52 51 50 51 50 52 51 51 51 51 52 50 51 52 52 50 51 52 50 50 51 51 51 51 52 52 52 51 52 52 51 51 50 50 50 </linea>
+			<linea fila="31" compresionDeCeros="true">(1) 32 32 32 33 33 32 33 32 32 33 33 32 33 32 32 32 33 33 32 32 32 32 33 </linea>
+			<linea fila="30" compresionDeCeros="true">(1) 29 30 30 29 27 30 29 27 28 30 28 28 28 30 28 27 30 27 28 27 28 28 27 29 29 27 30 29 27 30 30 28 28 28 27 30 30 28 30 29 27 30 28 29 27 28 30 27 </linea>
+			<linea fila="29" compresionDeCeros="true">(1) 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 </linea>
+			<linea fila="28" compresionDeCeros="true">(1) 7 7 9 7 8 8 9 7 9 9 9 7 7 8 8 7 8 </linea>
+			<linea fila="27" compresionDeCeros="true">(1) 9 11 7 11 10 9 10 9 10 9 8 8 11 9 8 11 7 7 11 7 11 11 10 11 8 10 9 9 9 11 8 8 11 8 9 9 9 8 </linea>
+			<linea fila="26" compresionDeCeros="true">(1) 11 12 10 11 11 12 12 11 10 11 11 12 10 12 11 11 </linea>
+			<linea fila="25" compresionDeCeros="true">(1) 33 33 32 33 33 32 33 32 33 32 32 33 33 32 32 32 32 33 32 33 32 33 33 33 33 33 32 33 33 33 33 32 33 32 32 32 32 32 </linea>
+			<linea fila="24" compresionDeCeros="true">(1) 22 19 21 19 20 19 19 22 21 19 22 19 21 22 19 19 20 22 22 19 22 20 19 19 20 20 22 20 22 19 19 20 22 22 20 22 22 22 19 21 </linea>
+			<linea fila="23" compresionDeCeros="true">(1) 29 28 29 28 29 29 29 29 29 29 28 28 28 29 28 28 28 28 28 29 28 29 29 29 28 29 29 29 29 29 29 29 28 29 28 28 28 28 28 29 29 29 29 29 28 </linea>
+			<linea fila="22" compresionDeCeros="true">(1) 38 39 38 38 38 38 37 41 37 39 38 38 37 41 40 40 37 40 38 38 38 38 40 38 37 41 41 40 41 39 38 41 38 38 41 </linea>
+			<linea fila="21" compresionDeCeros="true">(1) 12 12 11 10 12 12 10 12 </linea>
+			<linea fila="20" compresionDeCeros="true">(1) 3 4 4 4 4 6 6 3 6 3 4 4 6 5 4 4 3 4 4 6 </linea>
+			<linea fila="19" compresionDeCeros="true">(1) 29 29 29 30 30 29 29 </linea>
+			<linea fila="18" compresionDeCeros="true">(1) 33 31 34 31 33 32 32 33 33 31 31 34 31 33 34 33 31 33 34 34 33 31 33 33 </linea>
+			<linea fila="17" compresionDeCeros="true">(1) 49 46 45 49 46 48 48 46 49 45 47 46 46 48 46 47 46 45 48 49 46 45 45 47 49 46 47 48 49 47 47 48 45 46 45 46 47 45 45 47 </linea>
+			<linea fila="16" compresionDeCeros="true">(1) 40 41 42 41 40 40 41 41 40 41 41 40 41 42 42 42 42 40 42 40 40 42 42 41 41 42 42 42 42 42 40 42 40 42 42 40 41 41 42 40 40 41 40 40 42 41 41 41 </linea>
+			<linea fila="15" compresionDeCeros="true">(1) 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 </linea>
+			<linea fila="14" compresionDeCeros="true">(1) 41 41 41 43 41 43 43 43 42 43 42 43 42 41 43 42 43 43 42 42 42 41 41 42 41 41 42 42 43 42 </linea>
+			<linea fila="13" compresionDeCeros="true">(1) 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 </linea>
+			<linea fila="12" compresionDeCeros="true">(1) 29 29 30 29 29 29 30 29 29 30 29 30 29 30 29 30 29 30 29 </linea>
+			<linea fila="11" compresionDeCeros="true">(1) 34 34 35 35 35 36 36 33 33 34 33 33 </linea>
+			<linea fila="10" compresionDeCeros="true">(1) 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 </linea>
+			<linea fila="9" compresionDeCeros="true">(1) 12 14 13 12 14 12 11 13 14 12 11 11 11 13 13 14 14 12 13 13 </linea>
+			<linea fila="8" compresionDeCeros="true">(1) 38 39 39 39 38 38 38 39 39 38 39 38 38 39 39 38 39 38 39 38 38 39 38 38 38 39 38 39 39 38 39 39 38 39 </linea>
+			<linea fila="7" compresionDeCeros="true">(1) 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 </linea>
+			<linea fila="6" compresionDeCeros="true">(1) 30 30 30 31 34 32 33 32 31 32 32 31 34 32 34 </linea>
+			<linea fila="5" compresionDeCeros="true">(1) 23 22 24 21 25 22 22 23 </linea>
+			<linea fila="4" compresionDeCeros="true">(1) 51 50 50 50 </linea>
+			<linea fila="3" compresionDeCeros="true">(1) 15 15 16 13 12 13 14 14 15 14 15 13 16 12 14 14 13 12 14 12 12 15 12 14 12 14 13 14 12 13 15 16 15 16 16 14 13 14 14 13 14 16 16 16 12 15 12 16 15 15 </linea>
+			<linea fila="1" compresionDeCeros="true">(1) 9 8 7 9 7 7 7 7 8 9 8 7 8 7 9 7 7 7 9 7 7 7 7 7 7 9 7 9 8 9 9 7 9 8 8 7 8 9 9 8 9 </linea>
+		</mundo>
+	</mundos>
+	<programas>
+		<programa nombre="p1" resultadoEjecucion="FIN PROGRAMA"/>
+	</programas>
+</resultados>
+

@@ -31,10 +31,15 @@ class Test(KarelTest):
         for i in range(1, world.w+1):
             for j in range(1, int(((world.h/3)*2)+1)):
                 self.assertTrue(int(beepers.get((i,j), 0))>0)
+                # Valida que las parejas sean iguales
+                if j&1 :
+                	self.assertTrue(int(beepers.get((i,j), 0)) == int(beepers.get((i,j+1), 0)))
+
         #valida que no haya zumbadores en la granja
         for i in range(1, world.w+1):
             for j in range(int(((world.h/3)*2)+1),world.h+1 ):
                 self.assertTrue(int(beepers.get((i,j), 0))==0)
+                	
         #Valida que no hay walls adicionales en el mundo, basta con checar la de  el norte y la del este y hasta n-1,m-1 para que no las confunda con las que delimitan el mundo
         for i in range(1, world.w+1):
             for j in range(1,world.h+1):

@@ -1,0 +1,84 @@
+<resultados>
+	<mundos>
+		<mundo nombre="mundo_0">
+			<linea fila="74" compresionDeCeros="true">(1) 15 </linea>
+			<linea fila="73" compresionDeCeros="true">(2) 20 </linea>
+			<linea fila="72" compresionDeCeros="true">(3) 1 </linea>
+			<linea fila="71" compresionDeCeros="true">(4) 13 </linea>
+			<linea fila="70" compresionDeCeros="true">(5) 59 </linea>
+			<linea fila="69" compresionDeCeros="true">(6) 29 </linea>
+			<linea fila="68" compresionDeCeros="true">(7) 6 </linea>
+			<linea fila="67" compresionDeCeros="true">(8) 7 </linea>
+			<linea fila="66" compresionDeCeros="true">(9) 21 </linea>
+			<linea fila="65" compresionDeCeros="true">(10) 2 </linea>
+			<linea fila="64" compresionDeCeros="true">(11) 47 </linea>
+			<linea fila="63" compresionDeCeros="true">(12) 25 </linea>
+			<linea fila="62" compresionDeCeros="true">(13) 12 </linea>
+			<linea fila="61" compresionDeCeros="true">(14) 41 </linea>
+			<linea fila="60" compresionDeCeros="true">(15) 6 </linea>
+			<linea fila="59" compresionDeCeros="true">(16) 33 </linea>
+			<linea fila="58" compresionDeCeros="true">(17) 30 </linea>
+			<linea fila="57" compresionDeCeros="true">(18) 20 </linea>
+			<linea fila="56" compresionDeCeros="true">(19) 26 </linea>
+			<linea fila="55" compresionDeCeros="true">(20) 16 </linea>
+			<linea fila="54" compresionDeCeros="true">(21) 12 </linea>
+			<linea fila="53" compresionDeCeros="true">(22) 30 </linea>
+			<linea fila="52" compresionDeCeros="true">(23) 13 </linea>
+			<linea fila="51" compresionDeCeros="true">(24) 10 </linea>
+			<linea fila="50" compresionDeCeros="true">(25) 19 </linea>
+			<linea fila="49" compresionDeCeros="true">(26) 48 </linea>
+			<linea fila="48" compresionDeCeros="true">(27) 31 </linea>
+			<linea fila="47" compresionDeCeros="true">(28) 11 </linea>
+			<linea fila="46" compresionDeCeros="true">(29) 26 </linea>
+			<linea fila="45" compresionDeCeros="true">(30) 28 </linea>
+			<linea fila="44" compresionDeCeros="true">(31) 7 </linea>
+			<linea fila="43" compresionDeCeros="true">(32) 26 </linea>
+			<linea fila="42" compresionDeCeros="true">(33) 31 </linea>
+			<linea fila="41" compresionDeCeros="true">(34) 10 </linea>
+			<linea fila="40" compresionDeCeros="true">(35) 19 </linea>
+			<linea fila="39" compresionDeCeros="true">(36) 4 </linea>
+			<linea fila="38" compresionDeCeros="true">(37) 26 </linea>
+			<linea fila="37" compresionDeCeros="true">(38) 29 </linea>
+			<linea fila="36" compresionDeCeros="true">(39) 19 </linea>
+			<linea fila="35" compresionDeCeros="true">(40) 12 </linea>
+			<linea fila="34" compresionDeCeros="true">(41) 31 </linea>
+			<linea fila="33" compresionDeCeros="true">(42) 7 </linea>
+			<linea fila="32" compresionDeCeros="true">(43) 11 </linea>
+			<linea fila="31" compresionDeCeros="true">(44) 18 </linea>
+			<linea fila="30" compresionDeCeros="true">(45) 38 </linea>
+			<linea fila="29" compresionDeCeros="true">(46) 7 </linea>
+			<linea fila="28" compresionDeCeros="true">(47) 36 </linea>
+			<linea fila="27" compresionDeCeros="true">(48) 15 </linea>
+			<linea fila="26" compresionDeCeros="true">(49) 11 </linea>
+			<linea fila="25" compresionDeCeros="true">(50) 35 </linea>
+			<linea fila="24" compresionDeCeros="true">(51) 50 </linea>
+			<linea fila="23" compresionDeCeros="true">(52) 25 </linea>
+			<linea fila="22" compresionDeCeros="true">(53) 2 </linea>
+			<linea fila="21" compresionDeCeros="true">(54) 12 </linea>
+			<linea fila="20" compresionDeCeros="true">(55) 10 </linea>
+			<linea fila="19" compresionDeCeros="true">(56) 27 </linea>
+			<linea fila="18" compresionDeCeros="true">(57) 1 </linea>
+			<linea fila="17" compresionDeCeros="true">(58) 15 </linea>
+			<linea fila="16" compresionDeCeros="true">(59) 3 </linea>
+			<linea fila="15" compresionDeCeros="true">(60) 14 </linea>
+			<linea fila="14" compresionDeCeros="true">(61) 39 </linea>
+			<linea fila="13" compresionDeCeros="true">(62) 24 </linea>
+			<linea fila="12" compresionDeCeros="true">(63) 44 </linea>
+			<linea fila="11" compresionDeCeros="true">(64) 6 </linea>
+			<linea fila="10" compresionDeCeros="true">(65) 36 </linea>
+			<linea fila="9" compresionDeCeros="true">(66) 3 </linea>
+			<linea fila="8" compresionDeCeros="true">(67) 37 </linea>
+			<linea fila="7" compresionDeCeros="true">(68) 37 </linea>
+			<linea fila="6" compresionDeCeros="true">(69) 41 </linea>
+			<linea fila="5" compresionDeCeros="true">(70) 8 </linea>
+			<linea fila="4" compresionDeCeros="true">(71) 16 </linea>
+			<linea fila="3" compresionDeCeros="true">(72) 65 </linea>
+			<linea fila="2" compresionDeCeros="true">(73) 38 </linea>
+			<linea fila="1" compresionDeCeros="true">(74) 65 </linea>
+		</mundo>
+	</mundos>
+	<programas>
+		<programa nombre="p1" resultadoEjecucion="FIN PROGRAMA"/>
+	</programas>
+</resultados>
+
