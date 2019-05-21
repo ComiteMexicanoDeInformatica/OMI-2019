@@ -12,9 +12,9 @@
 			<monton x="8" y="1" zumbadores="2"></monton>
 			<monton x="9" y="1" zumbadores="2"></monton>
 			<monton x="10" y="1" zumbadores="2"></monton>
-			<monton x="1" y="2" zumbadores="1"></monton>
+			<monton x="1" y="2" zumbadores="30"></monton>
 			<monton x="2" y="2" zumbadores="2"></monton>
-			<monton x="1" y="3" zumbadores="1"></monton>
+			<monton x="1" y="3" zumbadores="30"></monton>
 			<monton x="2" y="3" zumbadores="10"></monton>
 		</mundo>
 	</mundos>

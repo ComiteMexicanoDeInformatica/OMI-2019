@@ -41,11 +41,28 @@ class Test(KarelTest):
             else:
                 break
 
-        self.assertTrue(zumb <= 100)
+        self.assertTrue(zumb < 100)
 
-        #Las direcciones en las que sopla el viento son entre 1 y 4
+        suma_x = world.zumbadores(1, 2)
+        suma_y = world.zumbadores(2, 2)
+
         for i in range(1, zumb + 1):
-            self.assertTrue(0 < world.zumbadores(i, 1) <= 4)
+            z = world.zumbadores(i, 1)
+            #Las direcciones en las que sopla el viento son entre 1 y 4
+            self.assertTrue(1 <= z <= 4)
+
+            #el viento nunca te va a sacar del mundo
+            if z == 1:
+                suma_y += 1
+            elif z == 2:
+                suma_x -= 1
+            elif z == 3:
+                suma_y -= 1
+            elif z == 4:
+                suma_x += 1
+
+            self.assertTrue(0 < suma_y <= 100)
+            self.assertTrue(0 < suma_x <= 100)
 
         #Las coordenadas de inicio están entre 1 y 100
         self.assertTrue(0 < world.zumbadores(1,2) <= 100)
@@ -57,5 +74,12 @@ class Test(KarelTest):
 
         #No hay más zumbadores en el mundo
         self.assertTrue(len(beepers) == (zumb + 4))
+        
+        if 'Sur' in self.caseName:
+            self.assertEqual(self.output.direccion, 'SUR')
+        elif 'Norte' in self.caseName:
+            self.assertEqual(self.output.direccion, 'NORTE')
+        else:
+            self.assertTrue(False) # invalid case name!
 
 Test().run()
